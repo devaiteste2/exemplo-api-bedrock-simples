@@ -1,0 +1,1 @@
+# exemplo-api-bedrock-simples
